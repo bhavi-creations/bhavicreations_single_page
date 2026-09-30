@@ -100,7 +100,7 @@
                     </h1>
 
                     <p class="index_first_description">
-                      We combine brand strategy, custom design, engaging content, and 
+                        We combine brand strategy, custom design, engaging content, and
                         <br class="d-none d-xl-block">
                         modern web solutions to elevate your business into a premium market leader.
                     </p>
@@ -175,7 +175,7 @@
 
                                     <!-- <div class="index_first_line index_first_line_large"></div>
                                     <div class="index_first_line index_first_line_small"></div> -->
-<p class="text-white">Logos & Guidelines</p>
+                                    <p class="text-white">Logos & Guidelines</p>
                                 </div>
                             </div>
 
@@ -198,7 +198,7 @@
 
                                     <h6>Website UI</h6>
 
-                                       <p class="text-white">Fast & Responsive</p>
+                                    <p class="text-white">Fast & Responsive</p>
 
                                     <!-- <div class="index_first_line index_first_line_large"></div>
                                     <div class="index_first_line index_first_line_small"></div> -->
@@ -584,7 +584,7 @@
 
 
 
-                         <div class="index_third_slide">
+                        <div class="index_third_slide">
                             <div class="index_third_client_box">
                                 <img
                                     src="./assets/img/anish.png"
@@ -594,7 +594,7 @@
                         </div>
 
 
-                         <div class="index_third_slide">
+                        <div class="index_third_slide">
                             <div class="index_third_client_box">
                                 <img
                                     src="./assets/img/ialign.png"
@@ -604,7 +604,7 @@
                         </div>
 
 
-                         <div class="index_third_slide">
+                        <div class="index_third_slide">
                             <div class="index_third_client_box">
                                 <img
                                     src="./assets/img/gullapudi.png"
@@ -614,7 +614,7 @@
                         </div>
 
 
-                         <div class="index_third_slide">
+                        <div class="index_third_slide">
                             <div class="index_third_client_box">
                                 <img
                                     src="./assets/img/nayana.png"
@@ -623,7 +623,7 @@
                             </div>
                         </div>
 
-                         <div class="index_third_slide">
+                        <div class="index_third_slide">
                             <div class="index_third_client_box">
                                 <img
                                     src="./assets/img/nivis.png"
@@ -631,7 +631,7 @@
                                     class="img-fluid">
                             </div>
                         </div>
-                         <div class="index_third_slide">
+                        <div class="index_third_slide">
                             <div class="index_third_client_box">
                                 <img
                                     src="./assets/img/preacher.png"
@@ -639,7 +639,7 @@
                                     class="img-fluid">
                             </div>
                         </div>
-                         <div class="index_third_slide">
+                        <div class="index_third_slide">
                             <div class="index_third_client_box">
                                 <img
                                     src="./assets/img/vnv.png"
@@ -647,7 +647,7 @@
                                     class="img-fluid">
                             </div>
                         </div>
-                         <div class="index_third_slide">
+                        <div class="index_third_slide">
                             <div class="index_third_client_box">
                                 <img
                                     src="./assets/img/quality.png"
@@ -656,7 +656,7 @@
                             </div>
                         </div>
 
-                         <div class="index_third_slide">
+                        <div class="index_third_slide">
                             <div class="index_third_client_box">
                                 <img
                                     src="./assets/img/usha.png"
@@ -764,7 +764,7 @@
                                 </div>
 
                                 <h5>
-Social media is the vital digital lifeline of modern connectivity, seamlessly bridging human expression with global reach, endless opportunity, and driving meaningful online interactions.                                </h5>
+                                    Social media is the vital digital lifeline of modern connectivity, seamlessly bridging human expression with global reach, endless opportunity, and driving meaningful online interactions. </h5>
 
                             </div>
                         </div>
@@ -1281,7 +1281,7 @@ Social media is the vital digital lifeline of modern connectivity, seamlessly br
 
                         <!-- Contact Item -->
                         <div class="index_contact_us_section_contact_item">
-                           
+
                             <div class="index_contact_us_section_contact_icon">
                                 <i class="fa-solid fa-location-dot"></i>
                             </div>
@@ -1296,7 +1296,7 @@ Social media is the vital digital lifeline of modern connectivity, seamlessly br
                                     class="index_contact_us_section_contact_value"
                                     target="_blank"
                                     rel="noopener noreferrer">
-                                    Kakinada,  Andhra Pradesh, India
+                                    Kakinada, Andhra Pradesh, India
                                 </a>
 
                                 <p>

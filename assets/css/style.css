@@ -1926,12 +1926,20 @@ section[id] {
   --bs-gutter-y: 16px;
 }
 
+.index_fourth_section .index_fourth_grid > .col-lg-5 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 
 /* =========================================
    LARGE LEFT CARD
 ========================================= */
 
 .index_fourth_section .index_fourth_large_card {
+  width: 100%;
+  max-width: 460px;
   min-height: 407px;
 
   position: relative;
