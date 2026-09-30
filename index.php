@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title></title>
     <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="./assets/css/style1.css">
 
 
 
@@ -76,18 +77,499 @@
             </div>
         </nav>
     </header>
+    <!-- index new section   -->
+
+    <section class="index_first_section" id="home">
+
+        <!-- Background Decorations -->
+        <div class="index_first_bg_orb index_first_bg_orb_one"></div>
+        <div class="index_first_bg_orb index_first_bg_orb_two"></div>
+
+        <div class="index_first_curve index_first_curve_one"></div>
+        <div class="index_first_curve index_first_curve_two"></div>
+
+        <div class="container-fluid index_first_container">
+
+            <div class="row align-items-center index_first_row">
+
+                <!-- =====================================
+                 LEFT CONTENT
+            ====================================== -->
+                <div class="col-lg-7 col-md-6 index_first_content">
+
+                    <!-- Badge -->
+                    <div class="index_first_badge">
+
+                        <span class="index_first_badge_dot"></span>
+
+                        Creative Branding &amp; Digital Agency
+
+                    </div>
+
+
+                    <!-- Heading -->
+                    <h1 class="index_first_heading">
+
+                        We build brands that
+
+                        <span>
+                            people remember.
+                        </span>
+
+                    </h1>
+
+
+                    <!-- Description -->
+                    <p class="index_first_description">
+
+                        We combine brand strategy, custom design, engaging content, and
+
+                        <br class="d-none d-xl-block">
+
+                        modern web solutions to elevate your business into a premium market leader.
+
+                    </p>
+
+
+                    <!-- Buttons -->
+                    <div class="index_first_buttons">
+
+                        <a href="#contact" class="index_first_primary_btn">
+
+                            <span>Start a Project</span>
+
+                            <span class="index_first_btn_arrow">
+                                →
+                            </span>
+
+                        </a>
+
+
+                        <a href="#work" class="index_first_secondary_btn">
+
+                            <span class="index_first_play_icon">
+                                ▶
+                            </span>
+
+                            <span>
+                                View Our Work
+                            </span>
+
+                        </a>
+
+                    </div>
+
+
+                    <!-- =====================================
+                     STATS
+                ====================================== -->
+                    <div class="index_first_stats">
+
+
+                        <!-- Project -->
+                        <div class="index_first_stat_item">
+
+                            <div class="index_first_stat_icon">
+
+                                <svg
+                                    viewBox="0 0 24 24"
+                                    fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+
+                                    <path
+                                        d="M3 7.5C3 6.67 3.67 6 4.5 6H9L11 8H19.5C20.33 8 21 8.67 21 9.5V18C21 18.83 20.33 19.5 19.5 19.5H4.5C3.67 19.5 3 18.83 3 18V7.5Z"
+                                        stroke="currentColor"
+                                        stroke-width="1.7"
+                                        stroke-linejoin="round" />
+
+                                </svg>
+
+                            </div>
+
+                            <div class="index_first_stat_text">
+
+                                <h3>140+</h3>
+
+                                <p>Projects</p>
+
+                            </div>
+
+                        </div>
+
+
+                        <span class="index_first_stat_divider"></span>
+
+
+                        <!-- Clients -->
+                        <div class="index_first_stat_item">
+
+                            <div class="index_first_stat_icon">
+
+                                <svg
+                                    viewBox="0 0 24 24"
+                                    fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+
+                                    <path
+                                        d="M20.84 4.61C20.33 4.1 19.72 3.69 19.05 3.41C18.38 3.13 17.66 2.99 16.94 2.99C16.22 2.99 15.5 3.13 14.83 3.41C14.16 3.69 13.55 4.1 13.04 4.61L12 5.65L10.96 4.61C9.93 3.58 8.53 3 7.07 3C5.61 3 4.21 3.58 3.18 4.61C2.15 5.64 1.57 7.04 1.57 8.5C1.57 9.96 2.15 11.36 3.18 12.39L4.22 13.43L12 21.21L19.78 13.43L20.82 12.39C21.33 11.88 21.74 11.27 22.02 10.6C22.3 9.93 22.44 9.21 22.44 8.49C22.44 7.77 22.3 7.05 22.02 6.38C21.74 5.71 21.35 5.12 20.84 4.61Z"
+                                        stroke="currentColor"
+                                        stroke-width="1.5"
+                                        stroke-linecap="round"
+                                        stroke-linejoin="round" />
+
+                                </svg>
+
+                            </div>
+
+                            <div class="index_first_stat_text">
+
+                                <h3>500+</h3>
+
+                                <p>Happy Clients</p>
+
+                            </div>
+
+                        </div>
+
+
+                        <span class="index_first_stat_divider"></span>
+
+
+                        <!-- Visitors -->
+                        <div class="index_first_stat_item">
+
+                            <div class="index_first_stat_icon">
+
+                                <svg
+                                    viewBox="0 0 24 24"
+                                    fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+
+                                    <circle
+                                        cx="9"
+                                        cy="8"
+                                        r="3"
+                                        stroke="currentColor"
+                                        stroke-width="1.6" />
+
+                                    <path
+                                        d="M3.5 18C3.5 15.5 5.5 13.5 8 13.5H10C12.5 13.5 14.5 15.5 14.5 18"
+                                        stroke="currentColor"
+                                        stroke-width="1.6"
+                                        stroke-linecap="round" />
+
+                                    <circle
+                                        cx="17"
+                                        cy="9"
+                                        r="2.3"
+                                        stroke="currentColor"
+                                        stroke-width="1.5" />
+
+                                    <path
+                                        d="M15.7 14C18.5 13.8 20.5 15.5 20.5 18"
+                                        stroke="currentColor"
+                                        stroke-width="1.5"
+                                        stroke-linecap="round" />
+
+                                </svg>
+
+                            </div>
+
+                            <div class="index_first_stat_text">
+
+                                <h3>1000+</h3>
+
+                                <p>Visitors</p>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <!-- =====================================
+                 RIGHT CREATIVE PANEL
+            ====================================== -->
+                <div class="col-lg-5 col-md-6">
+
+                    <div class="index_first_visual_wrap">
+
+
+                        <!-- Logo Card -->
+                        <div class="index_first_brand_card">
+
+                            <div class="index_first_brand_glow"></div>
+
+                            <img
+                                src="./assets/img/logo.webp"
+                                alt="Bhavi Creations"
+                                class="img-fluid logo_index">
+
+                        </div>
+
+
+                        <!-- =====================================
+                         SERVICE CARDS
+                    ====================================== -->
+                        <div class="row g-3 index_first_service_grid">
+
+
+                            <!-- Brand Identity -->
+                            <div class="col-6">
+
+                                <div class="index_first_service_card">
+
+                                    <div class="index_first_service_icon">
+
+                                        <svg
+                                            viewBox="0 0 24 24"
+                                            fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+
+                                            <path
+                                                d="M12 3L15 7L12 11L9 7L12 3Z"
+                                                stroke="currentColor"
+                                                stroke-width="1.5"
+                                                stroke-linejoin="round" />
+
+                                            <path
+                                                d="M7 8H17L16 20H8L7 8Z"
+                                                stroke="currentColor"
+                                                stroke-width="1.5"
+                                                stroke-linejoin="round" />
+
+                                            <path
+                                                d="M12 11V16"
+                                                stroke="currentColor"
+                                                stroke-width="1.5"
+                                                stroke-linecap="round" />
+
+                                        </svg>
+
+                                    </div>
+
+
+                                    <div class="index_first_service_text">
+
+                                        <h6>
+                                            Brand Identity
+                                        </h6>
+
+                                        <p>
+                                            Logos &amp;<br>
+                                            Guidelines
+                                        </p>
+
+                                    </div>
+
+
+                                    <!-- <div class="index_first_service_arrow">
+                                        →
+                                    </div> -->
+
+                                </div>
+
+                            </div>
+
+
+                            <!-- Social Media -->
+                            <div class="col-6">
+
+                                <div class="index_first_service_card">
+
+                                    <div class="index_first_service_icon index_first_icon_pink">
+
+                                        <svg
+                                            viewBox="0 0 24 24"
+                                            fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+
+                                            <path
+                                                d="M4 10V14H7L13 18V6L7 10H4Z"
+                                                stroke="currentColor"
+                                                stroke-width="1.6"
+                                                stroke-linejoin="round" />
+
+                                            <path
+                                                d="M16 9C17.3 10.1 17.3 13.9 16 15"
+                                                stroke="currentColor"
+                                                stroke-width="1.6"
+                                                stroke-linecap="round" />
+
+                                            <path
+                                                d="M18.5 6.5C21 9.5 21 14.5 18.5 17.5"
+                                                stroke="currentColor"
+                                                stroke-width="1.6"
+                                                stroke-linecap="round" />
+
+                                        </svg>
+
+                                    </div>
+
+
+                                    <div class="index_first_service_text">
+
+                                        <h6>
+                                            Social Media
+                                        </h6>
+
+                                        <p>
+                                            Posts &amp; Growth
+                                        </p>
+
+                                    </div>
+
+
+                                    <!-- <div class="index_first_service_arrow">
+                                        →
+                                    </div> -->
+
+                                </div>
+
+                            </div>
+
+
+                            <!-- Website UI -->
+                            <div class="col-6">
+
+                                <div class="index_first_service_card">
+
+                                    <div class="index_first_service_icon index_first_icon_blue">
+
+                                        <svg
+                                            viewBox="0 0 24 24"
+                                            fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+
+                                            <rect
+                                                x="3"
+                                                y="4"
+                                                width="18"
+                                                height="12"
+                                                rx="2"
+                                                stroke="currentColor"
+                                                stroke-width="1.6" />
+
+                                            <path
+                                                d="M9 20H15"
+                                                stroke="currentColor"
+                                                stroke-width="1.6"
+                                                stroke-linecap="round" />
+
+                                            <path
+                                                d="M12 16V20"
+                                                stroke="currentColor"
+                                                stroke-width="1.6" />
+
+                                        </svg>
+
+                                    </div>
+
+
+                                    <div class="index_first_service_text">
+
+                                        <h6>
+                                            Website UI
+                                        </h6>
+
+                                        <p>
+                                            Fast &amp; Responsive
+                                        </p>
+
+                                    </div>
+
+
+                                    <!-- <div class="index_first_service_arrow">
+                                        →
+                                    </div> -->
+
+                                </div>
+
+                            </div>
+
+
+                            <!-- Video -->
+                            <div class="col-6">
+
+                                <div class="index_first_service_card">
+
+                                    <div class="index_first_service_icon index_first_icon_pink">
+
+                                        <svg
+                                            viewBox="0 0 24 24"
+                                            fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+
+                                            <circle
+                                                cx="12"
+                                                cy="12"
+                                                r="9"
+                                                stroke="currentColor"
+                                                stroke-width="1.5" />
+
+                                            <path
+                                                d="M10 8.5L16 12L10 15.5V8.5Z"
+                                                stroke="currentColor"
+                                                stroke-width="1.5"
+                                                stroke-linejoin="round" />
+
+                                        </svg>
+
+                                    </div>
+
+
+                                    <div class="index_first_service_text">
+
+                                        <h6>
+                                            Video &amp; Reels
+                                        </h6>
+
+                                        <p>
+                                            Motion &amp; Promos
+                                        </p>
+
+                                    </div>
+
+
+                                    <!-- <div class="index_first_service_arrow">
+                                        →
+                                    </div> -->
+
+                                </div>
+
+                            </div>
+
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+
+
 
 
 
 
     <!-- index first section  -->
 
-    <section class="index_first_section" id="home">
+    <!-- <section class="index_first_section" id="home">
         <div class="container-fluid index_first_container">
 
             <div class="row align-items-center">
 
-                <!-- LEFT CONTENT -->
+             
                 <div class="col-lg-7 col-md-6  index_first_content">
 
                     <div class="index_first_badge">
@@ -105,7 +587,7 @@
                         modern web solutions to elevate your business into a premium market leader.
                     </p>
 
-                    <!-- Buttons -->
+                  
                     <div class="index_first_buttons">
 
                         <a href="#contact" class="index_first_primary_btn">
@@ -118,7 +600,7 @@
 
                     </div>
 
-                    <!-- Stats -->
+                    
                     <div class="index_first_stats">
 
                         <div class="index_first_stat_item">
@@ -141,31 +623,20 @@
                 </div>
 
 
-                <!-- RIGHT CREATIVE CARD -->
                 <div class="col-lg-5 col-md-6 ">
 
                     <div class="index_first_visual_wrap">
 
-                        <!-- Purple Main Card -->
+                      >
                         <div class="index_first_brand_card">
                             <img src="./assets/img/logo.webp" alt="logoo" style="height: auto ; width: auto; margin-top: -30px;" class="img-fluid logo_index">
 
-                            <!-- <span class="index_first_brand_label">
-                                BRAND
-                            </span>
-
-                            <div class="index_first_brand_title">
-                                Creative
-                            </div>
-
-                            <div class="index_first_brand_direction">
-                                Direction
-                            </div> -->
+                           
 
                         </div>
 
 
-                        <!-- Small Service Cards -->
+                       
                         <div class="row g-2 index_first_service_grid">
 
                             <div class="col-6">
@@ -173,8 +644,7 @@
 
                                     <h6>Brand Identity</h6>
 
-                                    <!-- <div class="index_first_line index_first_line_large"></div>
-                                    <div class="index_first_line index_first_line_small"></div> -->
+                                   
                                     <p class="text-white">Logos & Guidelines</p>
                                 </div>
                             </div>
@@ -186,8 +656,7 @@
                                     <h6>Social Media </h6>
                                     <p class="text-white">Posts & Growth</p>
 
-                                    <!-- <div class="index_first_line index_first_line_large"></div>
-                                    <div class="index_first_line index_first_line_small"></div> -->
+                                    
 
                                 </div>
                             </div>
@@ -200,8 +669,6 @@
 
                                     <p class="text-white">Fast & Responsive</p>
 
-                                    <!-- <div class="index_first_line index_first_line_large"></div>
-                                    <div class="index_first_line index_first_line_small"></div> -->
 
                                 </div>
                             </div>
@@ -213,8 +680,7 @@
                                     <h6>Video &amp; Reels</h6>
                                     <p class="text-white">Motion & Promos</p>
 
-                                    <!-- <div class="index_first_line index_first_line_large"></div>
-                                    <div class="index_first_line index_first_line_small"></div> -->
+                                  
 
                                 </div>
                             </div>
@@ -228,7 +694,7 @@
             </div>
 
         </div>
-    </section>
+    </section> -->
 
 
     <!-- index second section -->
@@ -525,7 +991,7 @@
 
 
 
-                        
+
 
 
 
@@ -820,15 +1286,20 @@
     </section>
 
     <!-- index fifth section  but class name vachi sixth section  -->
-    <section class="index_sixth_section" id="packages">
+    <!-- <section class="index_sixth_section" id="packages">
         <div class="container-fluid index_sixth_container">
 
-            <!-- Top Heading -->
+         
             <div class="row align-items-start index_sixth_top">
 
                 <div class="col-lg-6">
+                    <div class="index_sixth_eyebrow">
+                        <i class="fa-solid fa-cube" aria-hidden="true"></i>
+                        <span>Our Packages</span>
+                    </div>
                     <h2 class="index_sixth_heading">
-                        Choose a package that fits.
+                        Choose a package<br>
+                        <span>that fits.</span>
                     </h2>
                 </div>
 
@@ -842,15 +1313,21 @@
             </div>
 
 
-            <!-- Packages -->
+            
             <div class="row justify-content-center index_sixth_package_row">
 
-                <!-- STARTER -->
-                <div class=" col-lg-3 col-md-6">
+                
+                <div class="col-12 col-md-6 col-xl-3">
                     <div class="index_sixth_plan_card">
 
-                        <div class="index_sixth_badge index_sixth_badge_light">
-                            STARTER
+                        <div class="index_sixth_card_top">
+                            <div class="index_sixth_badge index_sixth_badge_light">
+                                <i class="fa-solid fa-paper-plane" aria-hidden="true"></i>
+                                STARTER
+                            </div>
+                            <div class="index_sixth_card_icon index_sixth_icon_starter">
+                                <i class="fa-solid fa-rocket" aria-hidden="true"></i>
+                            </div>
                         </div>
 
                         <h3 class="index_sixth_plan_title">
@@ -858,28 +1335,29 @@
                         </h3>
 
                         <h4 class="index_sixth_price">
-                            Rs XX,XXX / month
+                            <strong>Rs XX,XXX</strong>
+                            <span>/ month</span>
                         </h4>
 
                         <ul class="index_sixth_features">
 
                             <li>
-                                <span>+</span>
+                                <span><i class="fa-solid fa-check" aria-hidden="true"></i></span>
                                 8-12 social creatives
                             </li>
 
                             <li>
-                                <span>+</span>
+                                <span><i class="fa-solid fa-check" aria-hidden="true"></i></span>
                                 2 short reels
                             </li>
 
                             <li>
-                                <span>+</span>
+                                <span><i class="fa-solid fa-check" aria-hidden="true"></i></span>
                                 Basic monthly plan
                             </li>
 
                             <li>
-                                <span>+</span>
+                                <span><i class="fa-solid fa-check" aria-hidden="true"></i></span>
                                 Standard support
                             </li>
 
@@ -887,20 +1365,26 @@
 
                         <a href="#contact" class="index_sixth_plan_btn">
                             Choose Plan
+                            <i class="fa-solid fa-arrow-right" aria-hidden="true"></i>
                         </a>
 
                     </div>
                 </div>
 
 
-                <!-- GROWTH / FEATURED -->
-                <div class=" col-lg-3 col-md-6">
+                <div class="col-12 col-md-6 col-xl-3">
                     <div class="index_sixth_plan_card index_sixth_featured_card">
 
                         <div class="index_sixth_featured_glow"></div>
 
-                        <div class="index_sixth_badge index_sixth_badge_featured">
-                            MOST POPULAR
+                        <div class="index_sixth_card_top">
+                            <div class="index_sixth_badge index_sixth_badge_featured">
+                                <i class="fa-solid fa-crown" aria-hidden="true"></i>
+                                MOST POPULAR
+                            </div>
+                            <div class="index_sixth_card_icon index_sixth_icon_growth">
+                                <i class="fa-solid fa-chart-column" aria-hidden="true"></i>
+                            </div>
                         </div>
 
                         <h3 class="index_sixth_plan_title">
@@ -908,33 +1392,34 @@
                         </h3>
 
                         <h4 class="index_sixth_price">
-                            Rs XX,XXX / month
+                            <strong>Rs XX,XXX</strong>
+                            <span>/ month</span>
                         </h4>
 
                         <ul class="index_sixth_features">
 
                             <li>
-                                <span>+</span>
+                                <span><i class="fa-solid fa-check" aria-hidden="true"></i></span>
                                 Complete social creatives
                             </li>
 
                             <li>
-                                <span>+</span>
+                                <span><i class="fa-solid fa-check" aria-hidden="true"></i></span>
                                 Reels + stories
                             </li>
 
                             <li>
-                                <span>+</span>
+                                <span><i class="fa-solid fa-check" aria-hidden="true"></i></span>
                                 Monthly content strategy
                             </li>
 
                             <li>
-                                <span>+</span>
+                                <span><i class="fa-solid fa-check" aria-hidden="true"></i></span>
                                 Ad creative support
                             </li>
 
                             <li>
-                                <span>+</span>
+                                <span><i class="fa-solid fa-check" aria-hidden="true"></i></span>
                                 Priority revisions
                             </li>
 
@@ -942,18 +1427,25 @@
 
                         <a href="#contact" class="index_sixth_plan_btn index_sixth_featured_btn">
                             Choose Plan
+                            <i class="fa-solid fa-arrow-right" aria-hidden="true"></i>
                         </a>
 
                     </div>
                 </div>
 
 
-                <!-- PREMIUM -->
-                <div class=" col-lg-3 col-md-6">
+               
+                <div class="col-12 col-md-6 col-xl-3">
                     <div class="index_sixth_plan_card">
 
-                        <div class="index_sixth_badge index_sixth_badge_light">
-                            PREMIUM
+                        <div class="index_sixth_card_top">
+                            <div class="index_sixth_badge index_sixth_badge_light">
+                                <i class="fa-solid fa-gem" aria-hidden="true"></i>
+                                PREMIUM
+                            </div>
+                            <div class="index_sixth_card_icon index_sixth_icon_premium">
+                                <i class="fa-regular fa-lightbulb" aria-hidden="true"></i>
+                            </div>
                         </div>
 
                         <h3 class="index_sixth_plan_title">
@@ -961,28 +1453,29 @@
                         </h3>
 
                         <h4 class="index_sixth_price">
-                            Custom / scope based
+                            <strong>Custom</strong>
+                            <span>/ scope based</span>
                         </h4>
 
                         <ul class="index_sixth_features">
 
                             <li>
-                                <span>+</span>
+                                <span><i class="fa-solid fa-check" aria-hidden="true"></i></span>
                                 Full branding support
                             </li>
 
                             <li>
-                                <span>+</span>
+                                <span><i class="fa-solid fa-check" aria-hidden="true"></i></span>
                                 Social + video + ads
                             </li>
 
                             <li>
-                                <span>+</span>
+                                <span><i class="fa-solid fa-check" aria-hidden="true"></i></span>
                                 Website / landing page support
                             </li>
 
                             <li>
-                                <span>+</span>
+                                <span><i class="fa-solid fa-check" aria-hidden="true"></i></span>
                                 Dedicated creative direction
                             </li>
 
@@ -990,16 +1483,23 @@
 
                         <a href="#contact" class="index_sixth_plan_btn">
                             Talk to Us
+                            <i class="fa-solid fa-arrow-right" aria-hidden="true"></i>
                         </a>
 
                     </div>
                 </div>
-                <!-- Deluxe -->
-                <div class=" col-lg-3 col-md-6">
+              
+                <div class="col-12 col-md-6 col-xl-3">
                     <div class="index_sixth_plan_card">
 
-                        <div class="index_sixth_badge index_sixth_badge_light">
-                            Deluxe
+                        <div class="index_sixth_card_top">
+                            <div class="index_sixth_badge index_sixth_badge_deluxe">
+                                <i class="fa-solid fa-star" aria-hidden="true"></i>
+                                DELUXE
+                            </div>
+                            <div class="index_sixth_card_icon index_sixth_icon_deluxe">
+                                <i class="fa-solid fa-star" aria-hidden="true"></i>
+                            </div>
                         </div>
 
                         <h3 class="index_sixth_plan_title">
@@ -1007,28 +1507,29 @@
                         </h3>
 
                         <h4 class="index_sixth_price">
-                            Rs XX,XXX / month
+                            <strong>Rs XX,XXX</strong>
+                            <span>/ month</span>
                         </h4>
 
                         <ul class="index_sixth_features">
 
                             <li>
-                                <span>+</span>
+                                <span><i class="fa-solid fa-check" aria-hidden="true"></i></span>
                                 8-12 social creatives
                             </li>
 
                             <li>
-                                <span>+</span>
+                                <span><i class="fa-solid fa-check" aria-hidden="true"></i></span>
                                 2 short reels
                             </li>
 
                             <li>
-                                <span>+</span>
+                                <span><i class="fa-solid fa-check" aria-hidden="true"></i></span>
                                 Basic monthly plan
                             </li>
 
                             <li>
-                                <span>+</span>
+                                <span><i class="fa-solid fa-check" aria-hidden="true"></i></span>
                                 Standard support
                             </li>
 
@@ -1036,6 +1537,7 @@
 
                         <a href="#contact" class="index_sixth_plan_btn">
                             Choose Plan
+                            <i class="fa-solid fa-arrow-right" aria-hidden="true"></i>
                         </a>
 
                     </div>
@@ -1044,9 +1546,634 @@
             </div>
 
         </div>
-    </section>
+    </section> -->
+
+<!-- new section  -->
+<section class="index_package_section">
+
+    <!-- Decorative Background Elements -->
+    <div class="index_package_section_glow index_package_section_glow_left"></div>
+    <div class="index_package_section_glow index_package_section_glow_right"></div>
+
+    <div class="index_package_section_curve index_package_section_curve_one"></div>
+    <div class="index_package_section_curve index_package_section_curve_two"></div>
+    <div class="index_package_section_curve index_package_section_curve_three"></div>
+
+    <!-- tiny decorative stars -->
+    <span class="index_package_section_star index_package_section_star_1"></span>
+    <span class="index_package_section_star index_package_section_star_2"></span>
+    <span class="index_package_section_star index_package_section_star_3"></span>
+    <span class="index_package_section_star index_package_section_star_4"></span>
 
 
+    <div class="container-fluid index_package_section_container">
+
+        <!-- ==========================
+             TOP CONTENT
+        =========================== -->
+        <div class="row align-items-center index_package_section_top">
+
+            <div class="col-lg-7">
+
+                <div class="index_package_section_badge">
+
+                    <span class="index_package_section_badge_icon">
+                        <i class="fa-solid fa-cube"></i>
+                    </span>
+
+                    <span>
+                        Our Packages
+                    </span>
+
+                </div>
+
+
+                <h2 class="index_package_section_heading">
+
+                    Choose a package
+
+                    <span>
+                        that fits.
+                    </span>
+
+                </h2>
+
+            </div>
+
+
+            <div class="col-lg-5">
+
+                <p class="index_package_section_intro">
+
+                    Packages can be customized by content volume,
+                    <br class="d-none d-xl-block">
+
+                    video needs, ad support and website requirements.
+
+                </p>
+
+            </div>
+
+        </div>
+
+
+        <!-- ==========================
+             PACKAGE CARDS
+        =========================== -->
+        <div class="row g-4 index_package_section_cards">
+
+
+            <!-- ==========================
+                 STARTER
+            =========================== -->
+            <div class="col-xl-3 col-lg-6 col-md-6">
+
+                <div class="index_package_section_card">
+
+                    <!-- Card top -->
+                    <div class="index_package_section_card_top">
+
+                        <span class="index_package_section_plan_badge">
+
+                            <i class="fa-solid fa-paper-plane"></i>
+
+                            STARTER
+
+                        </span>
+
+
+                        <div class="index_package_section_card_icon">
+
+                            <i class="fa-solid fa-rocket"></i>
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- Plan Title -->
+                    <h3 class="index_package_section_plan_title">
+                        Brand Starter
+                    </h3>
+
+
+                    <!-- Price -->
+                    <div class="index_package_section_price">
+
+                        <strong>
+                            Rs XX,XXX
+                        </strong>
+
+                        <span>
+                            / month
+                        </span>
+
+                    </div>
+
+
+                    <!-- Divider -->
+                    <div class="index_package_section_divider"></div>
+
+
+                    <!-- Features -->
+                    <div class="index_package_section_features">
+
+                        <div class="index_package_section_feature">
+
+                            <span class="index_package_section_check">
+                                <i class="fa-solid fa-check"></i>
+                            </span>
+
+                            <span>
+                                8-12 social creatives
+                            </span>
+
+                        </div>
+
+
+                        <div class="index_package_section_feature">
+
+                            <span class="index_package_section_check">
+                                <i class="fa-solid fa-check"></i>
+                            </span>
+
+                            <span>
+                                2 short reels
+                            </span>
+
+                        </div>
+
+
+                        <div class="index_package_section_feature">
+
+                            <span class="index_package_section_check">
+                                <i class="fa-solid fa-check"></i>
+                            </span>
+
+                            <span>
+                                Basic monthly plan
+                            </span>
+
+                        </div>
+
+
+                        <div class="index_package_section_feature">
+
+                            <span class="index_package_section_check">
+                                <i class="fa-solid fa-check"></i>
+                            </span>
+
+                            <span>
+                                Standard support
+                            </span>
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- Button -->
+                    <a href="#contact" class="index_package_section_btn">
+
+                        <span>
+                            Choose Plan
+                        </span>
+
+                        <i class="fa-solid fa-arrow-right"></i>
+
+                    </a>
+
+                </div>
+
+            </div>
+
+
+
+            <!-- ==========================
+                 MOST POPULAR
+            =========================== -->
+            <div class="col-xl-3 col-lg-6 col-md-6">
+
+                <div class="index_package_section_card index_package_section_card_popular">
+
+                    <!-- Top Glow -->
+                    <div class="index_package_section_popular_glow"></div>
+
+
+                    <!-- Card top -->
+                    <div class="index_package_section_card_top">
+
+                        <span class="index_package_section_plan_badge index_package_section_popular_badge">
+
+                            <i class="fa-solid fa-crown"></i>
+
+                            MOST POPULAR
+
+                        </span>
+
+
+                        <div class="index_package_section_card_icon index_package_section_growth_icon">
+
+                            <i class="fa-solid fa-chart-column"></i>
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- Plan Title -->
+                    <h3 class="index_package_section_plan_title">
+                        Growth Partner
+                    </h3>
+
+
+                    <!-- Price -->
+                    <div class="index_package_section_price">
+
+                        <strong>
+                            Rs XX,XXX
+                        </strong>
+
+                        <span>
+                            / month
+                        </span>
+
+                    </div>
+
+
+                    <!-- Divider -->
+                    <div class="index_package_section_divider"></div>
+
+
+                    <!-- Features -->
+                    <div class="index_package_section_features">
+
+                        <div class="index_package_section_feature">
+
+                            <span class="index_package_section_check index_package_section_check_blue">
+
+                                <i class="fa-solid fa-check"></i>
+
+                            </span>
+
+                            <span>
+                                Complete social creatives
+                            </span>
+
+                        </div>
+
+
+                        <div class="index_package_section_feature">
+
+                            <span class="index_package_section_check index_package_section_check_blue">
+
+                                <i class="fa-solid fa-check"></i>
+
+                            </span>
+
+                            <span>
+                                Reels + stories
+                            </span>
+
+                        </div>
+
+
+                        <div class="index_package_section_feature">
+
+                            <span class="index_package_section_check index_package_section_check_blue">
+
+                                <i class="fa-solid fa-check"></i>
+
+                            </span>
+
+                            <span>
+                                Monthly content strategy
+                            </span>
+
+                        </div>
+
+
+                        <div class="index_package_section_feature">
+
+                            <span class="index_package_section_check index_package_section_check_blue">
+
+                                <i class="fa-solid fa-check"></i>
+
+                            </span>
+
+                            <span>
+                                Ad creative support
+                            </span>
+
+                        </div>
+
+
+                        <div class="index_package_section_feature">
+
+                            <span class="index_package_section_check index_package_section_check_blue">
+
+                                <i class="fa-solid fa-check"></i>
+
+                            </span>
+
+                            <span>
+                                Priority revisions
+                            </span>
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- Popular Button -->
+                    <a href="#contact"
+                       class="index_package_section_btn index_package_section_btn_popular">
+
+                        <span>
+                            Choose Plan
+                        </span>
+
+                        <i class="fa-solid fa-arrow-right"></i>
+
+                    </a>
+
+                </div>
+
+            </div>
+
+
+
+            <!-- ==========================
+                 PREMIUM
+            =========================== -->
+            <div class="col-xl-3 col-lg-6 col-md-6">
+
+                <div class="index_package_section_card">
+
+                    <!-- Card top -->
+                    <div class="index_package_section_card_top">
+
+                        <span class="index_package_section_plan_badge">
+
+                            <i class="fa-solid fa-gem"></i>
+
+                            PREMIUM
+
+                        </span>
+
+
+                        <div class="index_package_section_card_icon index_package_section_premium_icon">
+
+                            <i class="fa-regular fa-lightbulb"></i>
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- Plan Title -->
+                    <h3 class="index_package_section_plan_title">
+                        360 Creative
+                    </h3>
+
+
+                    <!-- Price -->
+                    <div class="index_package_section_price">
+
+                        <strong>
+                            Custom
+                        </strong>
+
+                        <span>
+                            / scope based
+                        </span>
+
+                    </div>
+
+
+                    <!-- Divider -->
+                    <div class="index_package_section_divider"></div>
+
+
+                    <!-- Features -->
+                    <div class="index_package_section_features">
+
+                        <div class="index_package_section_feature">
+
+                            <span class="index_package_section_check index_package_section_check_blue">
+
+                                <i class="fa-solid fa-check"></i>
+
+                            </span>
+
+                            <span>
+                                Full branding support
+                            </span>
+
+                        </div>
+
+
+                        <div class="index_package_section_feature">
+
+                            <span class="index_package_section_check index_package_section_check_blue">
+
+                                <i class="fa-solid fa-check"></i>
+
+                            </span>
+
+                            <span>
+                                Social + video + ads
+                            </span>
+
+                        </div>
+
+
+                        <div class="index_package_section_feature">
+
+                            <span class="index_package_section_check index_package_section_check_blue">
+
+                                <i class="fa-solid fa-check"></i>
+
+                            </span>
+
+                            <span>
+                                Website / landing page support
+                            </span>
+
+                        </div>
+
+
+                        <div class="index_package_section_feature">
+
+                            <span class="index_package_section_check index_package_section_check_blue">
+
+                                <i class="fa-solid fa-check"></i>
+
+                            </span>
+
+                            <span>
+                                Dedicated creative direction
+                            </span>
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- Button -->
+                    <a href="#contact" class="index_package_section_btn">
+
+                        <span>
+                            Talk to Us
+                        </span>
+
+                        <i class="fa-solid fa-arrow-right"></i>
+
+                    </a>
+
+                </div>
+
+            </div>
+
+
+
+            <!-- ==========================
+                 DELUXE
+            =========================== -->
+            <div class="col-xl-3 col-lg-6 col-md-6">
+
+                <div class="index_package_section_card">
+
+                    <!-- Card top -->
+                    <div class="index_package_section_card_top">
+
+                        <span class="index_package_section_plan_badge">
+
+                            <i class="fa-solid fa-star"></i>
+
+                            Deluxe
+
+                        </span>
+
+
+                        <div class="index_package_section_card_icon index_package_section_deluxe_icon">
+
+                            <i class="fa-solid fa-star"></i>
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- Plan Title -->
+                    <h3 class="index_package_section_plan_title">
+                        Brand Starter
+                    </h3>
+
+
+                    <!-- Price -->
+                    <div class="index_package_section_price">
+
+                        <strong>
+                            Rs XX,XXX
+                        </strong>
+
+                        <span>
+                            / month
+                        </span>
+
+                    </div>
+
+
+                    <!-- Divider -->
+                    <div class="index_package_section_divider"></div>
+
+
+                    <!-- Features -->
+                    <div class="index_package_section_features">
+
+                        <div class="index_package_section_feature">
+
+                            <span class="index_package_section_check">
+
+                                <i class="fa-solid fa-check"></i>
+
+                            </span>
+
+                            <span>
+                                8-12 social creatives
+                            </span>
+
+                        </div>
+
+
+                        <div class="index_package_section_feature">
+
+                            <span class="index_package_section_check">
+
+                                <i class="fa-solid fa-check"></i>
+
+                            </span>
+
+                            <span>
+                                2 short reels
+                            </span>
+
+                        </div>
+
+
+                        <div class="index_package_section_feature">
+
+                            <span class="index_package_section_check">
+
+                                <i class="fa-solid fa-check"></i>
+
+                            </span>
+
+                            <span>
+                                Basic monthly plan
+                            </span>
+
+                        </div>
+
+
+                        <div class="index_package_section_feature">
+
+                            <span class="index_package_section_check">
+
+                                <i class="fa-solid fa-check"></i>
+
+                            </span>
+
+                            <span>
+                                Standard support
+                            </span>
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- Button -->
+                    <a href="#contact" class="index_package_section_btn">
+
+                        <span>
+                            Choose Plan
+                        </span>
+
+                        <i class="fa-solid fa-arrow-right"></i>
+
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
 
     <!-- index seventh section  -->
     <section class="index_seventh_section" id="reviews">
@@ -1589,6 +2716,22 @@
         </div>
 
     </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
     <!-- index ninth section   -->
