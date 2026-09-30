@@ -6,13 +6,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="./assets/css/style.css">
+
+
+
+    <link
+        href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 </head>
 
 <body>
     <!-- Bootstrap CSS -->
-    <link
-        href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
-        rel="stylesheet" />
+
 
 
     <!-- Navbar Section -->
@@ -23,7 +28,7 @@
                 <!-- Logo -->
                 <a class="navbar-brand bhavi_logo" href="#">
                     <!-- <span class="logo_white">BHAVI</span><span class="logo_purple">CREATIONS</span> -->
-                     <img src="./assets/img/logo.webp" alt="logo" style="width: 200px; height: auto;">
+                    <img src="./assets/img/logo.webp" alt="logo" style="width: 200px; height: auto;">
                 </a>
 
                 <!-- Mobile Toggle -->
@@ -406,6 +411,7 @@
 
     <!-- index third section   -->
     <section class="index_third_section">
+
         <div class="container-fluid index_third_container">
 
             <div class="index_third_title_wrap">
@@ -413,51 +419,188 @@
                     TRUSTED BY GROWING BRANDS
                 </span>
             </div>
-          
-            <div class="row index_third_clients_row">
+
+            <div class="index_third_slider_wrapper">
 
 
-                <div class="col-xl-2 col-lg-4 col-md-4 col-sm-6">
-                    <div class="index_third_client_box">
-                        <img src="./assets/img/apple-dental-logo1.png" alt="logo" class="img-fluid">
+                <button class="index_third_slider_btn index_third_prev"
+                    type="button"
+                    aria-label="Previous clients">
+
+                    <i class="fa-solid fa-arrow-left"></i>
+
+                </button>
+
+
+
+                <div class="index_third_slider_view">
+
+                    <div class="index_third_slider_track">
+
+
+                        <div class="index_third_slide">
+                            <div class="index_third_client_box">
+                                <img
+                                    src="./assets/img/krishna.png"
+                                    alt="Apple Dental"
+                                    class="img-fluid">
+                            </div>
+                        </div>
+
+
+
+                        <div class="index_third_slide">
+                            <div class="index_third_client_box">
+                                <img
+                                    src="./assets/img/srinivasa.png"
+                                    alt="Krishna Dental"
+                                    class="img-fluid">
+                            </div>
+                        </div>
+
+
+
+                        <div class="index_third_slide">
+                            <div class="index_third_client_box">
+                                <img
+                                    src="./assets/img/appledental.png"
+                                    alt="Vision"
+                                    class="img-fluid">
+                            </div>
+                        </div>
+
+
+
+                        <div class="index_third_slide">
+                            <div class="index_third_client_box">
+                                <img
+                                    src="./assets/img/askoncologist.png"
+                                    alt="Apple Dental"
+                                    class="img-fluid">
+                            </div>
+                        </div>
+
+
+
+
+
+
+
+                        <div class="index_third_slide">
+                            <div class="index_third_client_box">
+                                <img
+                                    src="./assets/img/cnc.png"
+                                    alt="Vision"
+                                    class="img-fluid">
+                            </div>
+                        </div>
+
+
+
+
+                        <div class="index_third_slide">
+                            <div class="index_third_client_box">
+                                <img
+                                    src="./assets/img/neurostar.png"
+                                    alt="Client"
+                                    class="img-fluid">
+                            </div>
+                        </div>
+
+
+                        <div class="index_third_slide">
+                            <div class="index_third_client_box">
+                                <img
+                                    src="./assets/img/rajamundry.png"
+                                    alt="Client"
+                                    class="img-fluid">
+                            </div>
+                        </div>
+
+
+
+
+                        <div class="index_third_slide">
+                            <div class="index_third_client_box">
+                                <img
+                                    src="./assets/img/foton-decors.png"
+                                    alt="Client"
+                                    class="img-fluid">
+                            </div>
+                        </div>
+
+
+
+
+                        <div class="index_third_slide">
+                            <div class="index_third_client_box">
+                                <img
+                                    src="./assets/img/mega-modular.png"
+                                    alt="Client"
+                                    class="img-fluid">
+                            </div>
+                        </div>
+
+
+
+
+                        <div class="index_third_slide">
+                            <div class="index_third_client_box">
+                                <img
+                                    src="./assets/img/bharat-security.png"
+                                    alt="Client"
+                                    class="img-fluid">
+                            </div>
+                        </div>
+
+
+
+
+                        <div class="index_third_slide">
+                            <div class="index_third_client_box">
+                                <img
+                                    src="./assets/img/srihari.png"
+                                    alt="Client"
+                                    class="img-fluid">
+                            </div>
+                        </div>
+
+
+
+
+                        <div class="index_third_slide">
+                            <div class="index_third_client_box">
+                                <img
+                                    src="./assets/img/sreenika.png"
+                                    alt="Client"
+                                    class="img-fluid">
+                            </div>
+                        </div>
+
+
+
+
+
+
+
                     </div>
+
                 </div>
 
-                <div class="col-xl-2 col-lg-4 col-md-4 col-sm-6">
-                    <div class="index_third_client_box">
-                        <!-- CLIENT 02 -->
-                         <img src="./assets/img/krishna_new_logo1.png" alt="logo" class="img-fluid">
-                    </div>
-                </div>
 
-                <div class="col-xl-2 col-lg-4 col-md-4 col-sm-6">
-                    <div class="index_third_client_box">
-                        <img src="./assets/img/vision.png" alt="logo" class="img-fluid">
-                    </div>
-                </div>
 
-                <div class="col-xl-2 col-lg-4 col-md-4 col-sm-6">
-                    <div class="index_third_client_box">
-                        <img src="./assets/img/apple-dental-logo1.png" alt="logo" class="img-fluid">
-                    </div>
-                </div>
+                <button class="index_third_slider_btn index_third_next"
+                    type="button"
+                    aria-label="Next clients">
 
-                <div class="col-xl-2 col-lg-4 col-md-4 col-sm-6">
-                    <div class="index_third_client_box">
-                        <!-- CLIENT 02 -->
-                         <img src="./assets/img/krishna_new_logo1.png" alt="logo" class="img-fluid">
-                    </div>
-                </div>
+                    <i class="fa-solid fa-arrow-right"></i>
 
-                <div class="col-xl-2 col-lg-4 col-md-4 col-sm-6">
-                    <div class="index_third_client_box">
-                        <img src="./assets/img/vision.png" alt="logo" class="img-fluid">
-                    </div>
-                </div>
+                </button>
 
             </div>
-          
+
         </div>
+
     </section>
 
 
@@ -952,9 +1095,9 @@
             <div class="row index_ninth_top_row">
 
                 <!-- Brand -->
-                <div class="col-lg-5 col-md-12 index_ninth_brand_col">
+                <div class="col-lg-5 col-md-6 index_ninth_brand_col">
 
-                     <img src="./assets/img/logo.webp" alt="logo" style="width: 200px; height: auto;">
+                    <img src="./assets/img/logo.webp" alt="logo" style="width: 200px; height: auto;">
 
                     <p class="index_ninth_brand_text">
                         Creative branding, social media, video, web and digital support for
@@ -966,7 +1109,7 @@
 
 
                 <!-- Quick Links -->
-                <div class="col-lg-3 col-md-6 index_ninth_links_col">
+                <div class="col-lg-3 col-md-6 index_ninth_links_col d-none d-md-block">
 
                     <h3 class="index_ninth_footer_title">
                         Quick Links
@@ -983,7 +1126,7 @@
 
 
                 <!-- Contact -->
-                <div class="col-lg-4 col-md-6 index_ninth_contact_col">
+                <div class="col-lg-4 col-md-6 index_ninth_contact_col d-none d-lg-block">
 
                     <h3 class="index_ninth_footer_title">
                         Contact
@@ -1033,6 +1176,314 @@
 
         </div>
     </section>
+
+
+
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+
+            const sliderView = document.querySelector(".index_third_slider_view");
+            const sliderTrack = document.querySelector(".index_third_slider_track");
+            const prevBtn = document.querySelector(".index_third_prev");
+            const nextBtn = document.querySelector(".index_third_next");
+
+            if (!sliderView || !sliderTrack || !prevBtn || !nextBtn) {
+                return;
+            }
+
+            const originalSlides = Array.from(
+                sliderTrack.querySelectorAll(".index_third_slide")
+            );
+
+            if (originalSlides.length === 0) {
+                return;
+            }
+
+            /* Duplicate slides */
+            originalSlides.forEach(function(slide) {
+
+                const clone = slide.cloneNode(true);
+
+                clone.classList.add("index_third_clone");
+
+                sliderTrack.appendChild(clone);
+
+            });
+
+            let currentPosition = 0;
+            let autoPlay = null;
+
+            const autoSpeed = 2200;
+
+
+            function getStepSize() {
+
+                const slide = sliderTrack.querySelector(".index_third_slide");
+
+                if (!slide) {
+                    return 0;
+                }
+
+                const slideWidth = slide.getBoundingClientRect().width;
+
+                const trackStyle = window.getComputedStyle(sliderTrack);
+
+                const gap =
+                    parseFloat(trackStyle.columnGap) ||
+                    parseFloat(trackStyle.gap) ||
+                    0;
+
+                return slideWidth + gap;
+            }
+
+
+            function getOriginalTrackWidth() {
+
+                return getStepSize() * originalSlides.length;
+
+            }
+
+
+            function updateSlider(animate = true) {
+
+                sliderTrack.style.transition = animate ?
+                    "transform 0.55s cubic-bezier(0.22, 1, 0.36, 1)" :
+                    "none";
+
+                sliderTrack.style.transform =
+                    `translate3d(-${currentPosition}px, 0, 0)`;
+
+            }
+
+
+            function nextSlide() {
+
+                const step = getStepSize();
+                const maxOriginalWidth = getOriginalTrackWidth();
+
+                if (!step || !maxOriginalWidth) {
+                    return;
+                }
+
+                currentPosition += step;
+
+                updateSlider(true);
+
+
+                if (currentPosition >= maxOriginalWidth) {
+
+                    setTimeout(function() {
+
+                        currentPosition =
+                            currentPosition - maxOriginalWidth;
+
+                        updateSlider(false);
+
+                    }, 560);
+
+                }
+
+            }
+
+
+            function previousSlide() {
+
+                const step = getStepSize();
+                const maxOriginalWidth = getOriginalTrackWidth();
+
+                if (!step || !maxOriginalWidth) {
+                    return;
+                }
+
+
+                if (currentPosition <= 0) {
+
+                    currentPosition = maxOriginalWidth;
+
+                    updateSlider(false);
+
+
+                    requestAnimationFrame(function() {
+
+                        requestAnimationFrame(function() {
+
+                            currentPosition -= step;
+
+                            updateSlider(true);
+
+                        });
+
+                    });
+
+                } else {
+
+                    currentPosition -= step;
+
+                    updateSlider(true);
+
+                }
+
+            }
+
+
+            function startAutoPlay() {
+
+                stopAutoPlay();
+
+                autoPlay = setInterval(function() {
+
+                    nextSlide();
+
+                }, autoSpeed);
+
+            }
+
+
+            function stopAutoPlay() {
+
+                if (autoPlay) {
+
+                    clearInterval(autoPlay);
+
+                    autoPlay = null;
+
+                }
+
+            }
+
+
+            /* Buttons */
+
+            nextBtn.addEventListener("click", function() {
+
+                nextSlide();
+
+                startAutoPlay();
+
+            });
+
+
+            prevBtn.addEventListener("click", function() {
+
+                previousSlide();
+
+                startAutoPlay();
+
+            });
+
+
+            /* IMPORTANT:
+               No hover pause.
+               Cursor slider meedha unna kuda auto slide continue avuthundi.
+            */
+
+
+            /* Mobile swipe */
+
+            let touchStart = 0;
+            let touchEnd = 0;
+
+
+            sliderView.addEventListener(
+                "touchstart",
+                function(event) {
+
+                    touchStart = event.touches[0].clientX;
+
+                }, {
+                    passive: true
+                }
+            );
+
+
+            sliderView.addEventListener(
+                "touchmove",
+                function(event) {
+
+                    touchEnd = event.touches[0].clientX;
+
+                }, {
+                    passive: true
+                }
+            );
+
+
+            sliderView.addEventListener(
+                "touchend",
+                function() {
+
+                    const difference = touchStart - touchEnd;
+
+                    if (Math.abs(difference) > 40) {
+
+                        if (difference > 0) {
+
+                            nextSlide();
+
+                        } else {
+
+                            previousSlide();
+
+                        }
+
+                    }
+
+                    touchStart = 0;
+                    touchEnd = 0;
+
+                    startAutoPlay();
+
+                }, {
+                    passive: true
+                }
+            );
+
+
+            /* Browser tab hidden appudu matrame stop */
+
+            document.addEventListener("visibilitychange", function() {
+
+                if (document.hidden) {
+
+                    stopAutoPlay();
+
+                } else {
+
+                    startAutoPlay();
+
+                }
+
+            });
+
+
+            /* Resize */
+
+            let resizeTimeout;
+
+            window.addEventListener("resize", function() {
+
+                clearTimeout(resizeTimeout);
+
+                resizeTimeout = setTimeout(function() {
+
+                    currentPosition = 0;
+
+                    updateSlider(false);
+
+                }, 200);
+
+            });
+
+
+            /* Start */
+
+            updateSlider(false);
+
+            startAutoPlay();
+
+        });
+    </script>
 
 
 
