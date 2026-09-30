@@ -525,14 +525,7 @@
 
 
 
-                        <div class="index_third_slide">
-                            <div class="index_third_client_box">
-                                <img
-                                    src="./assets/img/foton-decors.png"
-                                    alt="Client"
-                                    class="img-fluid">
-                            </div>
-                        </div>
+                        
 
 
 
