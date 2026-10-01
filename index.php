@@ -2067,7 +2067,7 @@
 
                     <!-- Plan Title -->
                     <h3 class="index_package_section_plan_title">
-                        Brand Starter
+                       Ultimate Brand Scale
                     </h3>
 
 
@@ -2101,7 +2101,7 @@
                             </span>
 
                             <span>
-                                8-12 social creatives
+                               15-20 Social Creatives & Posts
                             </span>
 
                         </div>
@@ -2116,7 +2116,7 @@
                             </span>
 
                             <span>
-                                2 short reels
+                                4-6  Reels / Shorts
                             </span>
 
                         </div>
@@ -2131,7 +2131,7 @@
                             </span>
 
                             <span>
-                                Basic monthly plan
+                               Advanced Content & Strategy Calendar
                             </span>
 
                         </div>
@@ -2146,7 +2146,7 @@
                             </span>
 
                             <span>
-                                Standard support
+                               Priority Revisions & Fast Delivery
                             </span>
 
                         </div>
@@ -2180,7 +2180,7 @@
         <div class="container-fluid index_seventh_container">
 
             <!-- Top -->
-            <div class="row align-items-start index_seventh_top">
+            <!-- <div class="row align-items-start index_seventh_top">
 
                 <div class="col-lg-6">
                     <h2 class="index_seventh_heading">
@@ -2194,7 +2194,7 @@
                     </p>
                 </div>
 
-            </div>
+            </div> -->
 
 
             <!-- Reviews -->
@@ -2278,7 +2278,7 @@
     </section>
 
     <!-- index eight section   -->
-    <section class="index_eight_section pt-5">
+    <section class="index_eight_section text-center  pt-5">
         <div class="container-fluid index_eight_container">
 
             <div class="index_eight_cta_box">
@@ -2428,13 +2428,13 @@
 
 
                         <!-- Creative Shape -->
-                        <div class="index_contact_us_section_creative_note d-none d-md-block">
+                        <!-- <div class="index_contact_us_section_creative_note d-none d-md-block">
                             <span>Good Design</span>
                             <span>Starts With</span>
                             <span>A Conversation.</span>
 
                             <i class="fa-solid fa-arrow-down-long"></i>
-                        </div>
+                        </div> -->
 
                     </div>
 
